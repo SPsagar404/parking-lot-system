@@ -30,7 +30,10 @@ Once the application is running, you can interact with it via the command-line i
 - `slot_numbers_for_cars_with_colour <color>`: Retrieves slot numbers of cars with the specified color.
 
 ## Example
-Welcome to Parking Lot System
+Assuming a parking lot with 6 slots, the following commands should be run in sequence by typing them in at a prompt and should produce output as described below the command. Note that exit terminates the process and returns control to the shell. 
+
+
+Welcome to Parking Lot System\
 Enter commands (Type 'exit' to quit)
 - `> create_parking_lot 6`\
 Created a parking lot with 6 slots
