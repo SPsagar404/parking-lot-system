@@ -32,9 +32,9 @@ Once the application is running, you can interact with it via the command-line i
 ## Example
 Welcome to Parking Lot System
 Enter commands (Type 'exit' to quit)
-- `> create_parking_lot 6`
+- `> create_parking_lot 6`\
 Created a parking lot with 6 slots
-- `> park KA-01-HH-1234 White`
+- `> park KA-01-HH-1234 White`\
 Allocated slot number: 1
 - `> park KA-01-HH-9999 White`
 Allocated slot number: 2
